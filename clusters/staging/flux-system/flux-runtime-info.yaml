@@ -9,3 +9,4 @@ data:
   ENVIRONMENT: staging
   CLUSTER_NAME: kind-flux-staging
   CLUSTER_DOMAIN: staging.example.com
+  CEVA: ceva
